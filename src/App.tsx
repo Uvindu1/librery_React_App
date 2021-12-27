@@ -1,8 +1,14 @@
 import React from 'react';
-import Main from "./components/Main";
+import WellComeArea from "./components/WellComeArea";
+
+
+
+
 function App() {
   return (
-    <Main/>
+    <div>
+      <WellComeArea/>
+    </div>
   );
 }
 

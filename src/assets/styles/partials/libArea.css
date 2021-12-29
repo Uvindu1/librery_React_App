@@ -13,10 +13,11 @@
 
 .topArea {
     display: inline-block;
-    height: 960px;
+    height: 400px;
     width: 46%;
     margin: 24px;
     z-index: 1;
+    overflow: hidden;
 }
 
 .topArea h2{
@@ -30,5 +31,6 @@
 
 .line-2 {
     border-top: 1px solid black;
+    margin-bottom: 25px;
   }
 

@@ -1,0 +1,59 @@
+@import "./libArea.css";
+
+*{
+    box-sizing: border-box;
+}
+
+.infotmatinFeeld{
+    height: 45px;
+    width: 100%;    
+}
+
+.dataSenter{
+    float: left;
+    font-weight: 500;
+    padding: 10px;
+}
+
+#index{
+    display: inline;
+    margin-right: 10px;
+}
+
+.allName{
+    display: inline;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.buttonSenter{
+    float: right;  
+    font-weight: 200;
+    padding: 10px; 
+}
+
+.editBTN{
+    display: inline;
+    margin-right: 10px;
+    color: rgb(241, 169, 13);
+    cursor: pointer;
+}
+
+.deleteBTN{
+    display: inline;
+    margin-right: 5px;
+    color: rgb(223, 51, 51);
+    cursor: pointer;
+}
+
+.infotmatinFeeld:hover{
+    background-color: rgb(241, 240, 240);
+}
+
+.editBTN:hover{
+    font-size: 110%;
+}
+
+.deleteBTN:hover{
+    font-size: 110%;
+}

@@ -34,3 +34,12 @@
     margin-bottom: 25px;
   }
 
+button{
+    height: 50px;
+    width: 190px;
+    font-size: 20px;
+    background: #fff;
+    color: rgb(25, 11, 235);
+    border: none;
+    padding: 0px 60px 0px 0px;
+}

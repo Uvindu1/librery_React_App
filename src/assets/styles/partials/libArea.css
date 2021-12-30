@@ -1,0 +1,45 @@
+@import "./fonts.css"; 
+
+*{
+    box-sizing: border-box;
+}
+
+.libArea {
+    height: 1000px;
+    width: 98%;
+    margin: 15px;
+    
+}
+
+.topArea {
+    display: inline-block;
+    height: 400px;
+    width: 46%;
+    margin: 24px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.topArea h2{
+    margin: 0px 0px 6px 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 38px;
+    line-height: 1.15;
+    letter-spacing: -.02em;
+}
+
+.line-2 {
+    border-top: 1px solid black;
+    margin-bottom: 25px;
+  }
+
+button{
+    height: 50px;
+    width: 190px;
+    font-size: 20px;
+    background: #fff;
+    color: rgb(25, 11, 235);
+    border: none;
+    padding: 0px 60px 0px 0px;
+}

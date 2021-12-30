@@ -1,0 +1,25 @@
+@import "./fonts.css"; 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.CAH_name{
+    width: 200;
+    font-size: 25px;
+    color: rgb(19, 75, 196);
+    display: inline;
+}
+
+.closs_BTN{
+    display: inline;
+    font-size: 25px;
+    color: rgb(19, 75, 196);
+    float: right;
+    margin-right: 25%;
+}
+
+.closs_BTN:hover{
+    color: red;
+}

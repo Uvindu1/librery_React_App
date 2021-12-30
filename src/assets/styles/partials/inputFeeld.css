@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.inputFeeld{
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.inputFeeld h4{
+    color: rgb(19, 75, 196);;
+    margin-bottom: 5px;
+}
+
+.row{
+    width: 75%;
+    height: 25px;
+}
